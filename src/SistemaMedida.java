@@ -1,5 +1,4 @@
 public class SistemaMedida {
-    
     public static void main(String[] args) {
         String sigla = "A";
 
@@ -28,6 +27,6 @@ public class SistemaMedida {
             default:
                 System.out.println("INDEFINIDO");
         }
-        
     }
+
 }
